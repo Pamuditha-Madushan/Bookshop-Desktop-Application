@@ -12,7 +12,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Oshada Viduranga
+ * @author Pamuditha Madushan
  */
 public class billing extends javax.swing.JFrame {
 

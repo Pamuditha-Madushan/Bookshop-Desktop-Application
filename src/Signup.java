@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Oshada Viduranga
+ * @author Pamuditha Madushan
  */
 public class Signup extends javax.swing.JFrame {
 

@@ -17,7 +17,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Oshada Viduranga
+ * @author Pamuditha Madushan
  */
 public class Users extends javax.swing.JFrame {
 

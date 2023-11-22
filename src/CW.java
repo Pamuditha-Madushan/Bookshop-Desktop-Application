@@ -7,7 +7,7 @@ package cw;
 
 /**
  *
- * @author Oshada Viduranga
+ * @author Pamuditha Madushan
  */
 public class CW {
 

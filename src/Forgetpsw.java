@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Oshada Viduranga
+ * @authorPamuditha Madushan
  */
 public class Forgetpsw extends javax.swing.JFrame {
 
